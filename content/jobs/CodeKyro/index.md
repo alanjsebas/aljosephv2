@@ -3,7 +3,7 @@ date: '1'
 title: 'Content Writing/ Python Programming Internship'
 company: 'CodeKyro'
 location: 'Remote'
-range: 'August - Present 2021'
+range: 'August 2021 - March 2022'
 url: 'https://codekyro.com'
 ---
 
