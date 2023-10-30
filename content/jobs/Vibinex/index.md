@@ -1,13 +1,11 @@
 ---
-date: '2'
-title: 'Technical Writer'
-company: 'ZeroFox'
-location: 'Hybrid'
-range: 'October 2022 - Present'
-url: 'https://zerofox.com'
+date: '3'
+title: 'Technical Documentation Contributor'
+company: 'Vibinex'
+location: 'Remote'
+range: 'October 2022 - October 2023'
+url: 'https://vibinex.com'
 ---
 
-- Assessing scope and scale of Global cybersecurity incidents
-- Summarizing incidents through both direct and indirect sources
-- Working on Daily Reports
-- Proofreading and editing of content
+-Contributing as a paid volunteer towards the technical documentation of Vibinex, to simply it for prospective users.
+-Working on Code of Conduct and Contributor Conduct rules.
