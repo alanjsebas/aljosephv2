@@ -90,7 +90,7 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <a href="https://github.com/alanjsebas/aljoseph">
+        <a href="https://github.com/alanjsebas/aljosephv2">
           <div>
             By Alan Joseph<br></br>
             <br></br>
