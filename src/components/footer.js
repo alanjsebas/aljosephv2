@@ -95,6 +95,8 @@ const Footer = () => {
             By Alan Joseph<br></br>
             <br></br>
             Technologies Used: Gatsby and GraphQL
+               <br></br>
+            Based on bchiang7's v4
           </div>
         </a>
         </StyledCredit>
