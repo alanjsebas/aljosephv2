@@ -136,8 +136,8 @@ const About = () => {
           <div>
             <p>
             I currently work as a Technical Writer. I graduated from <a href="https://pesitsouth.pes.edu/">PES University</a>, India in 2021.
-            Although I am interested in various different fields, I am most interested in Technology, History and Current Affairs.
-             I am curious by nature and hence keen on discovering or learning more about the areas that interest me.
+            Although I am interested in various different fields, I am most interested in Technology, Cybersecurity, History and Current Affairs.
+             I am curious and keen on discovering more about the areas that interest me.
             </p>
 
             <p>Here are a few languages I'm comfortable working with :</p>
