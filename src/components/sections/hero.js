@@ -72,7 +72,7 @@ const Hero = () => {
   const three = <h3 className="big-heading">I like to Experiment.</h3>;
   const four = (
     <p>
-      I'm a Technical Writer, primarily interested in Software Development, Design, Writing and History. I make efforts
+      I'm a Technical Writer, primarily interested in Tech, Writing and History. I make efforts
       to keep up with the latest news about the world around me or the new insights and trends in
       the fields I am interested in.
     </p>
